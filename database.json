@@ -13,7 +13,8 @@
     "items": [
     {
       "id": "6fb2c8e6-5980-9403-f847-51407ab4597a",
-      "text": "Build the feature #1"
+      "text": "Build the feature "
+	  "title": "Feature"
     },
     {
       "id": "c7f25d4b-6a72-d0d5-7d03-fc0b8794fb94",
